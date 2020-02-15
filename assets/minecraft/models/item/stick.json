@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stick"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":12345}, "model": "item/gui/arrow_up"},
+        { "predicate": {"custom_model_data":12346}, "model": "item/gui/arrow_dw"},
+        { "predicate": {"custom_model_data":12347}, "model": "item/gui/arrow_lf"},
+        { "predicate": {"custom_model_data":12348}, "model": "item/gui/arrow_rt"},
+        { "predicate": {"custom_model_data":12349}, "model": "item/rpg/ice_spike"}
+    ]
+}
