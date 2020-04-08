@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/cobblestone"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":1}, "model": "item/gui/skilltree_horizontal"},
+        { "predicate": {"custom_model_data":2}, "model": "item/gui/skilltree_vertical"},
+        { "predicate": {"custom_model_data":3}, "model": "item/gui/skilltree_arrow_left"},
+        { "predicate": {"custom_model_data":4}, "model": "item/gui/skilltree_arrow_right"},
+        { "predicate": {"custom_model_data":5}, "model": "item/gui/skilltree_arrow_up"},
+        { "predicate": {"custom_model_data":6}, "model": "item/gui/skilltree_arrow_down"},
+        { "predicate": {"custom_model_data":7}, "model": "item/gui/skilltree_crossing"},
+        { "predicate": {"custom_model_data":11}, "model": "item/gui/skilltree_left_bottom"},
+        { "predicate": {"custom_model_data":12}, "model": "item/gui/skilltree_left_top"},
+        { "predicate": {"custom_model_data":13}, "model": "item/gui/skilltree_bottom_right"},
+        { "predicate": {"custom_model_data":14}, "model": "item/gui/skilltree_top_right"},
+        { "predicate": {"custom_model_data":15}, "model": "item/gui/skilltree_horizontal_and_up"},
+        { "predicate": {"custom_model_data":16}, "model": "item/gui/skilltree_horizontal_and_down"},
+        { "predicate": {"custom_model_data":17}, "model": "item/gui/skilltree_vertical_and_left"},
+        { "predicate": {"custom_model_data":18}, "model": "item/gui/skilltree_vertical_and_down"}
+    ]
+}
