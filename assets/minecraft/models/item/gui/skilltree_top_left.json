@@ -1,11 +1,11 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/gui/skill_fast_up"
+		"layer0": "items/gui/skilltree_top_left"
 	},
 	"display": {
 		"gui": {
-			"scale": [1.3, 1.3, 1.3]
+			"scale": [1.1, 1.1, 1.1]
 		}
 	}
 }

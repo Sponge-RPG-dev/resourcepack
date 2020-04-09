@@ -1,0 +1,11 @@
+{
+    "parent": "block/crafting_table",
+    "textures": {
+        "layer0": "block/crafting_table"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":11111}, "model": "item/gui/race"},
+        { "predicate": {"custom_model_data":11112}, "model": "item/gui/primary"},
+        { "predicate": {"custom_model_data":11113}, "model": "item/gui/profession"}
+    ]
+}

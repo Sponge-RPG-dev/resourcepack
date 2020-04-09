@@ -1,0 +1,9 @@
+{
+    "parent": "block/oak_sapling",
+    "textures": {
+        "layer0": "block/oak_sapling"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":12345}, "model": "item/gui/skills"}
+    ]
+}

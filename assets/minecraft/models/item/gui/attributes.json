@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/gui/skill_fast_up"
+		"layer0": "items/gui/attribute"
 	},
 	"display": {
 		"gui": {

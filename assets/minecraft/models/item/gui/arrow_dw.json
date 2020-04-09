@@ -2,5 +2,10 @@
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "items/gui/arrow_dw"
+	},
+	"display": {
+		"gui": {
+			"scale": [1.3, 1.3, 1.3]
+		}
 	}
 }
