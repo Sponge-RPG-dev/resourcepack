@@ -4,6 +4,7 @@
         "layer0": "item/book"
     },
     "overrides": [
+        { "predicate": {"custom_model_data":77}, "model": "item/gui/skills/increased_health"},
         { "predicate": {"custom_model_data":1234}, "model": "item/gui/attributes"}
     ]
 }

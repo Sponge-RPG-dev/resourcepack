@@ -1,0 +1,9 @@
+{
+    "parent": "block/red_stained_glass",
+    "textures": {
+        "layer0": "block/red_stained_glass"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":1235}, "model": "item/gui/skilltree_boundary"}
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/diamond_armor"
+        "layer0": "item/diamond_chestplate"
     },
     "overrides": [
         { "predicate": {"custom_model_data":12345}, "model": "item/gui/allowed_armor"}
