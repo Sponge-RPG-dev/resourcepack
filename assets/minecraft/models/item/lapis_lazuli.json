@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/lapis_lazuli"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":100}, "model": "item/rpg/portal_blue"}
+    ]
+}
