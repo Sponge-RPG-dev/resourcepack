@@ -1,11 +1,11 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/gui/skills/increased_health"
+		"layer0": "items/gui/skills/fireball"
 	},
 	"display": {
 		"gui": {
-			"scale": [1.2, 1.2, 1.2]
+			"scale": [1.05, 1.05, 1.05]
 		}
 	}
 }

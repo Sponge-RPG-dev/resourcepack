@@ -1,0 +1,9 @@
+{
+    "parent": "block/iron_bars",
+    "textures": {
+        "layer0": "block/iron_bars"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":1}, "model": "item/gui/skills/lightning_strike"}
+    ]
+}

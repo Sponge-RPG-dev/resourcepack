@@ -1,0 +1,9 @@
+{
+    "parent": "block/blaze_powder",
+    "textures": {
+        "layer0": "block/blaze_poweder"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":2}, "model": "item/gui/skills/fireball"}
+    ]
+}
