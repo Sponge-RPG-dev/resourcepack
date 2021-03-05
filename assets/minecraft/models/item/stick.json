@@ -8,6 +8,13 @@
         { "predicate": {"custom_model_data":12346}, "model": "item/gui/arrow_dw"},
         { "predicate": {"custom_model_data":12347}, "model": "item/gui/arrow_lf"},
         { "predicate": {"custom_model_data":12348}, "model": "item/gui/arrow_rt"},
-        { "predicate": {"custom_model_data":12349}, "model": "item/rpg/ice_spike"}
+        { "predicate": {"custom_model_data":12349}, "model": "item/rpg/ice_spike"},
+        { "predicate": {"custom_model_data":12350}, "model": "item/rpg/ice_spike_1"},
+        { "predicate": {"custom_model_data":12350}, "model": "item/rpg/ice_spike_2"},
+        { "predicate": {"custom_model_data":12352}, "model": "item/rpg/ice_spike_3"},
+        { "predicate": {"custom_model_data":12353}, "model": "item/rpg/ice_spike_4"},
+        { "predicate": {"custom_model_data":12354}, "model": "item/rpg/ice_spike_5"},
+        { "predicate": {"custom_model_data":12355}, "model": "item/rpg/ice_spike_6"},
+        { "predicate": {"custom_model_data":12356}, "model": "item/rpg/ice_spike_7"}
     ]
 }

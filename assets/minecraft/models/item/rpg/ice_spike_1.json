@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "items/rpg/ice_spike",
+		"particle": "portal_blue"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7],
+			"to": [16, 16, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [19, 8, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.25, 2.25], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.25, 2.25], "texture": "#0"},
+				"up": {"uv": [0, 0, 2.25, 0.25], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.25, 0.25], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-7.25, -4.25, 16],
+			"scale": [2.69, 2.57, 2.43]
+		}
+	}
+}

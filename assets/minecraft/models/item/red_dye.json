@@ -4,6 +4,7 @@
         "layer0": "item/red_dye"
     },
     "overrides": [
-        { "predicate": {"custom_model_data":78}, "model": "item/gui/skills/bash"}
+        { "predicate": {"custom_model_data":78}, "model": "item/gui/skills/bash"},
+        { "predicate": {"custom_model_data":100}, "model": "item/rpg/yellow_portal"}
     ]
 }

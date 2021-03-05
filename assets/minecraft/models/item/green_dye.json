@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/red_dye"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data":10512}, "model": "item/rpg/green_portal"}
+    ]
+}

@@ -1,7 +1,7 @@
 {
-    "parent": "block/redstone_dust",
+    "parent": "item/handheld",
     "textures": {
-        "layer0": "block/redstone_dust"
+        "layer0": "item/redstone_dust"
     },
     "overrides": [
         { "predicate": {"custom_model_data":998}, "model": "item/gui/skills/increased_health"}
